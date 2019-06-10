@@ -31,6 +31,7 @@ brew 'fish'
 brew 'terraform'
 brew 'cfssl'
 brew 'kubectl'
+brew 'kubernetes-helm'
 
 cask '1password'
 cask 'cyberduck'
